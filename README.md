@@ -9,12 +9,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbrealdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="lbrealdev GitHub Stats" />
 </a>
 
-<a href="https://github.com/lbrealdev/lbrealdev/openshift">
+<a href="https://github.com/lbrealdev/openshift">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lbrealdev&repo=openshift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/lbrealdev/lbrealdev/rocket-chat-app">
+<a href="https://github.com/lbrealdev/rocket-chat-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lbrealdev&repo=rocket-chat-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
