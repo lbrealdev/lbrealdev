@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks! 👋
 
 ## &#x1f4c8; GitHub Stats
 
