@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm lbrealdev</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbrealdev&show_icons=true&theme=transparent)
 <p align="left">
 </p>
 
